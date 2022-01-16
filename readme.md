@@ -20,6 +20,9 @@
 - **“Virtual traffic tunnels”** via a randomized network infrastructure.
 - **Inaccessible by traditional browsers** due to its unique registry operator. Also, it's further hidden by various network security measures like firewalls and encryption.
 
+
+**[`^        back to top        ^`](#)**
+
 ## Table of Contents
  - [Introduction](#what-is-the-dark-web)
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
@@ -37,7 +40,7 @@
  - [Non-English](#non-english)
  - [TOP 50](#top-50)
  
-
+**[`^        back to top        ^`](#)**
 
 ### Hidden Service lists and search engines
 
@@ -86,6 +89,8 @@ TorProject Archive[ http://j6im4v42ur6dpic3.onion/]( http://j6im4v42ur6dpic3.oni
 TorProject Media[ http://p3igkncehackjtib.onion/]( http://p3igkncehackjtib.onion/)
 
 Uncensored Hidden Wiki[ http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page]( http://zqktlwi4fecvo6ri.onion/wiki/index.php/Main_Page)
+
+**[`^        back to top        ^`](#)**
 
 
 ### Marketplace Financial
