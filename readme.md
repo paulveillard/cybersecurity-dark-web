@@ -22,6 +22,7 @@
 - **Inaccessible by traditional browsers** due to its unique registry operator. Also, it's further hidden by various network security measures like firewalls and encryption.
 
 ## Table of Contents
+ - [Introduction](#what-is-the-dark-web)
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
  - [Marketplace Financial](#marketplace-financial)
  - [Marketplace Commercial Services](#marketplace-commercial-services)
