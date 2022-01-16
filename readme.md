@@ -6,6 +6,8 @@
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
 
+![dark](https://github.com/paulveillard/cybersecurity-dark-web/blob/main/img/DarkWebSchematic.png)
+
 ## Table of Contents
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
  - [Marketplace Financial](#marketplace-financial)
