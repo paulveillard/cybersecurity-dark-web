@@ -9,10 +9,17 @@
 ![dark](https://github.com/paulveillard/cybersecurity-dark-web/blob/main/img/DarkWebSchematic.png)
 
 ### The surface web or open web
+- The open web, or surface web, is the “visible” surface layer. If we continue to visualize the entire web like an iceberg, the open web would be the top portion that’s above the water. From a statistical standpoint, this collective of websites and data makes up under 5% of the total internet.
 
 ### The deep web
+- The deep web rests below the surface and accounts for approximately 90% of all websites. This would be the part of an iceberg beneath the water, much larger than the surface web. In fact, this hidden web is so large that it's impossible to discover exactly how many pages or websites are active at any one time.
 
-### The deep web
+### The dark web
+- The dark web refers to sites that are not indexed and only accessible via specialized web browsers. Significantly smaller than the tiny surface web, the dark web is considered a part of the deep web. Using our ocean and iceberg visual, the dark web would be the bottom tip of the submerged iceberg.
+
+- **No webpage indexing** by surface web search engines. Google and other popular search tools cannot discover or display results for pages within the dark web.
+- **“Virtual traffic tunnels”** via a randomized network infrastructure.
+- **Inaccessible by traditional browsers** due to its unique registry operator. Also, it's further hidden by various network security measures like firewalls and encryption.
 
 ## Table of Contents
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
