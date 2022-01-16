@@ -5,8 +5,14 @@
 > A collection of awesome software, libraries, learning tutorials and videos, ethical books & technical resources and cool stuff about dark web.
 > Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
 
-
+## What is the Dark Web?
 ![dark](https://github.com/paulveillard/cybersecurity-dark-web/blob/main/img/DarkWebSchematic.png)
+
+### The surface web or open web
+
+### The deep web
+
+### The deep web
 
 ## Table of Contents
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
