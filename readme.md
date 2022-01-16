@@ -1,6 +1,10 @@
 
 # Dark Web
 
+###### Welcome to the world of dark web:
+> A collection of awesome software, libraries, learning tutotials, documents, ethical books & technical resources and cool stuff about dark web.
+> Thanks to all contributors, you're awesome and wouldn't be possible without you! Our goal is to build a categorized community-driven collection of very well-known resources.
+
 
 ## Table of Contents
  - [Hidden Service lists and search engines](#hidden-service-lists-and-search-engines)
