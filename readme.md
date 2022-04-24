@@ -523,7 +523,7 @@ Welcome To A New Site [n2ha26oplph454e6.onion](n2ha26oplph454e6.onion)
 
 Welcome To Dark Web Links & More! [rbaco5flcou46wpd.onion](rbaco5flcou46wpd.onion)
 
-## Resources
+## `Resources`
 
 [https://thehiddenwiki.org/](https://thehiddenwiki.org/)
 
