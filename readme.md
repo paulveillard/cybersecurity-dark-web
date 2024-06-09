@@ -14,7 +14,7 @@
 - The deep web rests below the surface and accounts for approximately 90% of all websites. This would be the part of an iceberg beneath the water, much larger than the surface web. In fact, this hidden web is so large that it's impossible to discover exactly how many pages or websites are active at any one time.
 
 ### `The dark web`
-- The [dark web](https://www.kaspersky.com/resource-center/threats/deep-web) refers to sites that are not indexed and only accessible via specialized web browsers. Significantly smaller than the tiny surface web, the dark web is considered a part of the deep web. Using our ocean and iceberg visual, the dark web would be the bottom tip of the submerged iceberg.
+- The [dark web](https://darkweblink.com/) refers to sites that are not indexed and only accessible via specialized web browsers. Significantly smaller than the tiny surface web, the dark web is considered a part of the deep web. Using our ocean and iceberg visual, the dark web would be the bottom tip of the submerged iceberg.
 
 - **No webpage indexing** by surface web search engines. Google and other popular search tools cannot discover or display results for pages within the dark web.
 - **“Virtual traffic tunnels”** via a randomized network infrastructure.
@@ -44,9 +44,13 @@
 
 ###  `Hidden Service lists and search engines `
 
+Darkweblink[ http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion]( http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion)
+
+onionhub.com[ https://onionhub.com]( https://onionhub.com)
+
 All You’re Base[ http://3fyb44wdhnd2ghhl.onion/]( http://3fyb44wdhnd2ghhl.onion/)
 
-All You’re Wiki – clone of the clean hidden wiki that went down with freedom hosting[ http://3fyb44wdhnd2ghhl.onion/wiki/index.php?title=Main_Page]( http://3fyb44wdhnd2ghhl.onion/wiki/index.php?title=Main_Page)
+All You’re Wiki clone of the clean hidden wiki that went down with freedom hosting[ http://3fyb44wdhnd2ghhl.onion/wiki/index.php?title=Main_Page]( http://3fyb44wdhnd2ghhl.onion/wiki/index.php?title=Main_Page)
 
 Anonet Webproxy[ http://xdagknwjc7aaytzh.onion/]( http://xdagknwjc7aaytzh.onion/)
 
