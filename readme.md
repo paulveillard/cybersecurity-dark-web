@@ -525,6 +525,8 @@ Welcome To Dark Web Links & More! [rbaco5flcou46wpd.onion](rbaco5flcou46wpd.onio
 
 ## `Resources`
 
+[https://darkweblink.com/](https://darkweblink.com/)
+
 [https://thehiddenwiki.org/](https://thehiddenwiki.org/)
 
 [https://www.deepweb-sites.com/top-50-dark-web-onion-domains-pagerank/](https://www.deepweb-sites.com/top-50-dark-web-onion-domains-pagerank/)
